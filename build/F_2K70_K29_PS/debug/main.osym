@@ -1,0 +1,122 @@
+_RETURN_
+WDTSTATE
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+CCP_3
+CCP_3_LOW
+CCP_3_HIGH
+PWMLOAD
+PWM1LD
+PWM2LD
+PWM3LD
+PWMENABLE
+PWM1EN
+PWM2EN
+PWM3EN
+C1OUT
+C2OUT
+LVDRDY
+LVDOUT
+N1OUT
+N2OUT
+N3OUT
+LC1OUT
+LC2OUT
+LC3OUT
+LC4OUT
+LC5OUT
+LC6OUT
+LC7OUT
+LC8OUT
+MDBIT
+MDOUT
+ACTUD
+ADACLR
+i
+I_HTR
+VHTR
+gHTRPWR_OK
+HTR_Pwr
+gHTR_OFF
+gHTR_ON
+Temp
+TempCont
+TestNumber
+gTestElegido
+gTestFinalizado
+gInfoRecieved
+gReceptionError
+gLUM_OFF
+gBAT_DISCHARGED
+gBAT_FULLCHARGE
+gLEDs_FULLPWR
+gLEDs_20PerPWR
+gLEDs_OFF
+gDischargePowerOK
+gCharge_OK
+gVbatOK
+GreenLED
+RedLED
+ILD
+I_carg
+I_desc
+VLD
+VBat
+VPS
+VDCBus
+Bat_Pwr
+gRampUp_OK
+gRampDown_OK
+gRedFlick_OK
+gGreenFlick_OK
+gIntermitentChargeOK
+TimepoDescarga1
+TiempoDescarga2
+V_BAT_24h
+ErrorCodes
+ErrorCont
+gPreviousTest_OK
+gPreviousTest_ERROR
+rs232_errors
+
+Project Directory:
+    C:\Users\ybustillo\Desktop\LXFWTester\FW_LX_TESTER_0.1.0.X\
+
+Project Files:
+    main.c                                                  [15-may.-24 09:51  CRC=5FEA4207]
+    Project_Config.h                                        [30-abr.-24 12:20  CRC=FFC3C2B9]
+    18F45Q43.h                                              [26-mar.-24 13:03  CRC=4276D8BF]
+    Pin_def.h                                               [14-may.-24 09:33  CRC=586EC834]
+    main.h                                                  [14-may.-24 12:35  CRC=3B68F7DE]
+    Tests.h                                                 [14-may.-24 07:43  CRC=F9FE4C6C]
+
+Source signature=29F93669
+
+Units:
+    C:\Users\ybustillo\Desktop\LXFWTester\FW_LX_TESTER_0.1.0.X\main
+
+Compiler Settings:
+    Processor:      PIC18F45Q43
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    ICD Provisions: Yes
+    Output file:    Relocatable
+    Compile Mode:   CCS5
+    Predefined symbols:
+       #define __DEBUG 1
+       #define __COMPILA_F_2K70_K29_PS 
+       #define __18F45Q43 1
+
+Output Files:
+    XREF file:   build\F_2K70_K29_PS\debug\main.xsym
+    Errors:      build\F_2K70_K29_PS\debug\main.err
+    Ext Symbols: build\F_2K70_K29_PS\debug\main.esym
+    Object:      build\F_2K70_K29_PS\debug\main.o
+    Symbols:     build\F_2K70_K29_PS\debug\main.osym

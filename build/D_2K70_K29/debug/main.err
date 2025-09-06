@@ -1,0 +1,5 @@
+Compiling C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main on 09-abr.-24 at 13:27
+C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main.c:122:1:  Warning#204  Condition always FALSE
+C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main.c:125:1:  Warning#203  Condition always TRUE
+C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main.o ===>  0 Errors,  2 Warnings.
+Build Successful.

@@ -1,0 +1,120 @@
+_RETURN_
+WDTSTATE
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+CCP_3
+CCP_3_LOW
+CCP_3_HIGH
+PWMLOAD
+PWM1LD
+PWM2LD
+PWM3LD
+PWMENABLE
+PWM1EN
+PWM2EN
+PWM3EN
+C1OUT
+C2OUT
+LVDRDY
+LVDOUT
+N1OUT
+N2OUT
+N3OUT
+LC1OUT
+LC2OUT
+LC3OUT
+LC4OUT
+LC5OUT
+LC6OUT
+LC7OUT
+LC8OUT
+MDBIT
+MDOUT
+ACTUD
+ADACLR
+i
+VHTR
+gHTRPWR_OK
+HTR_Pwr
+gHTR_OFF
+gHTR_ON
+gTestTempDerrRealizado
+Temp
+gTestNumber
+gTestElegido
+gTestFinalizado
+gBAT_DISCHARGED
+gBAT_FULLCHARGE
+gLEDs_FULLPWR
+gLEDs_20PerPWR
+gLEDs_OFF
+gDischargePowerOK
+gCharge_OK
+gVbatOK
+GreenLED
+RedLED
+ILD
+I_carg
+I_desc
+VLD
+VBat
+gVPS
+gVDCBus
+Bat_Pwr
+gTestDeepDischargeRealizado
+GrafCargaBat
+GrafDescargaBat
+gRampUp_OK
+gRampDown_OK
+gRedFlick_OK
+gGreenFlick_OK
+gIntermitentChargeOK
+TimepoDescarga1
+TiempoDescarga2
+V_BAT_24h
+gTestContChargeRealizado
+ErrorCodes
+ErrorCont
+gTest_OK
+gTest_ERROR
+rs232_errors
+
+Project Directory:
+    C:\Users\ybustillo\Desktop\LXFWTester\FW_LX_TESTER_0.1.0.X\
+
+Project Files:
+    main.c                                                  [17-jul.-24 14:42  CRC=F95947F0]
+    Project_Config.h                                        [18-jul.-24 09:29  CRC=26D314E6]
+    18F45Q43.h                                              [26-mar.-24 13:03  CRC=4276D8BF]
+    Pin_def.h                                               [10-jun.-24 12:08  CRC=FB22352E]
+    main.h                                                  [03-jul.-24 09:25  CRC=91473961]
+    Tests.h                                                 [17-jul.-24 14:42  CRC=5DE6F647]
+
+Source signature=AADA90B2
+
+Units:
+    C:\Users\ybustillo\Desktop\LXFWTester\FW_LX_TESTER_0.1.0.X\main
+
+Compiler Settings:
+    Processor:      PIC18F45Q43
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Output file:    Relocatable
+    Compile Mode:   CCS5
+    Predefined symbols:
+       #define __COMPILA_PRUEBAS 
+       #define __18F45Q43 1
+
+Output Files:
+    XREF file:   build\Pruebas\production\main.xsym
+    Errors:      build\Pruebas\production\main.err
+    Ext Symbols: build\Pruebas\production\main.esym
+    Object:      build\Pruebas\production\main.o
+    Symbols:     build\Pruebas\production\main.osym

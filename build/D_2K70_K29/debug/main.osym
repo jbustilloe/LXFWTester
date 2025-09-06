@@ -1,0 +1,116 @@
+_RETURN_
+WDTSTATE
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+CCP_3
+CCP_3_LOW
+CCP_3_HIGH
+PWMLOAD
+PWM1LD
+PWM2LD
+PWM3LD
+PWMENABLE
+PWM1EN
+PWM2EN
+PWM3EN
+C1OUT
+C2OUT
+LVDRDY
+LVDOUT
+N1OUT
+N2OUT
+N3OUT
+LC1OUT
+LC2OUT
+LC3OUT
+LC4OUT
+LC5OUT
+LC6OUT
+LC7OUT
+LC8OUT
+MDBIT
+MDOUT
+ACTUD
+ADACLR
+i
+I_HTR
+VHTR
+TestNumber
+gTestElegido
+gTestFinalizado
+gInfoRecieved
+gReceptionError
+gLUM_OFF
+gBAT_DISCHARGED
+gBAT_FULLCHARGE
+gLEDs_FULLPWR
+gLEDs_20PerPWR
+gLEDs_OFF
+gDischargePowerOK
+gCharge_OK
+gVbatOK
+GreenLED
+RedLED
+ILD
+I_carg
+I_desc
+VLD
+VBat
+VPS
+VDCBus
+BATTERY_POWER
+gRampUp_OK
+gRampDown_OK
+gRedFlick_OK
+gGreenFlick_OK
+gIntermitentChargeOK
+TimepoDescarga1
+TiempoDescarga2
+V_BAT_24h
+ErrorCodes
+ErrorCont
+gPreviousTest_OK
+gPreviousTest_ERROR
+rs232_errors
+
+Project Directory:
+    C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\
+
+Project Files:
+    main.c                                                  [09-abr.-24 13:27  CRC=061A0125]
+    Project_Config.h                                        [09-abr.-24 10:57  CRC=40FE5B53]
+    18F45Q43.h                                              [26-mar.-24 13:03  CRC=4276D8BF]
+    Pin_def.h                                               [09-abr.-24 10:03  CRC=2241ED42]
+    main.h                                                  [09-abr.-24 10:45  CRC=861437C7]
+    Tests.h                                                 [09-abr.-24 10:08  CRC=2A0B86DE]
+
+Source signature=85FC67FC
+
+Units:
+    C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main
+
+Compiler Settings:
+    Processor:      PIC18F45Q43
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    ICD Provisions: Yes
+    Output file:    Relocatable
+    Compile Mode:   CCS5
+    Predefined symbols:
+       #define __DEBUG 1
+       #define __COMPILA_D_2K70_K29 
+       #define __18F45Q43 1
+
+Output Files:
+    XREF file:   build\D_2K70_K29\debug\main.xsym
+    Errors:      build\D_2K70_K29\debug\main.err
+    Ext Symbols: build\D_2K70_K29\debug\main.esym
+    Object:      build\D_2K70_K29\debug\main.o
+    Symbols:     build\D_2K70_K29\debug\main.osym

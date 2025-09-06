@@ -1,0 +1,129 @@
+_RETURN_
+WDTSTATE
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+CCP_3
+CCP_3_LOW
+CCP_3_HIGH
+PWMLOAD
+PWM1LD
+PWM2LD
+PWM3LD
+PWMENABLE
+PWM1EN
+PWM2EN
+PWM3EN
+C1OUT
+C2OUT
+LVDRDY
+LVDOUT
+N1OUT
+N2OUT
+N3OUT
+LC1OUT
+LC2OUT
+LC3OUT
+LC4OUT
+LC5OUT
+LC6OUT
+LC7OUT
+LC8OUT
+MDBIT
+MDOUT
+ACTUD
+ADACLR
+i
+TestNumber
+gTestElegido
+gTestFinalizado
+gInfoRecieved
+gReceptionError
+ErrorLog
+gLUM_OFF
+gBAT_DISCHARGED
+gBAT_FULLCHARGE
+gLEDs_FULLPWR
+gLEDs_20PerPWR
+gLEDs_OFF
+gDischargePowerOK
+gCharge_OK
+gVbatOK
+GreenLED
+RedLED
+ILD
+I_carg
+I_desc
+I_HTR
+VLD
+VBat
+VPS
+VDCBus
+VHTR
+BATTERY_POWER
+I_CARGA_LOW
+I_CARGA_HIGH
+I_LED_563_HIGH
+I_LED_563_LOW
+I_LED_103_HIGH
+I_LED_103_LOW
+W_DESCBAT_LOW
+W_DESCBAT_HIGH
+TIEMPO_DESCARGA1_HIGH
+TIEMPO_DESCARGA1_LOW
+TIEMPO_DESCARGA2_HIGH
+TIEMPO_DESCARGA2_LOW
+V_BATERIA_LOW
+V_BATERIA_HIGH
+gRampUp_OK
+gRampDown_OK
+gRedFlick_OK
+gGreenFlick_OK
+gIntermitentChargeOK
+TimepoDescarga1
+TiempoDescarga2
+V_BAT_24h
+ErrorCodes
+ErrorCont
+gPreviousTest_OK
+gPreviousTest_ERROR
+rs232_errors
+
+Project Directory:
+    C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\
+
+Project Files:
+    main.c                                                  [02-abr.-24 15:07  CRC=171581CA]
+    18F45Q43.h                                              [26-mar.-24 13:03  CRC=4276D8BF]
+    Pin_def.h                                               [27-mar.-24 14:54  CRC=2DDABF89]
+    main.h                                                  [02-abr.-24 15:04  CRC=AF4BC91F]
+    Tests.h                                                 [02-abr.-24 15:05  CRC=129C66D4]
+
+Source signature=5BEBB0D9
+
+Units:
+    C:\Users\ybustillo\Desktop\LX_FW_Tester\FW_LX_TESTER_0.1.0.X\main
+
+Compiler Settings:
+    Processor:      PIC18F45Q43
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    ICD Provisions: Yes
+    Output file:    Relocatable
+    Compile Mode:   CCS5
+    Predefined symbols:
+       #define __DEBUG 1
+       #define __18F45Q43 1
+
+Output Files:
+    XREF file:   build\default\debug\main.xsym
+    Errors:      build\default\debug\main.err
+    Ext Symbols: build\default\debug\main.esym
+    Object:      build\default\debug\main.o
+    Symbols:     build\default\debug\main.osym
